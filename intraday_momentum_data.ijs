@@ -1,0 +1,1 @@
+min =: |. ;"1 ". each _3 ] \ (TAB, CRLF) cutopen clipread ''
